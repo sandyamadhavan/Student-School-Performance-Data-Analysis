@@ -11,6 +11,7 @@ Weka
 Excel
 
 I obtained a data set from UCI machine learning repository.It was a data set of two Portuguese school student's exam performance.
+Link: https://archive.ics.uci.edu/ml/datasets/student+performance#
 The following tasks were performed on the data set
 
 1.Data merging
