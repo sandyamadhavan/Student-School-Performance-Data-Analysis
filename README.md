@@ -27,3 +27,6 @@ The following tasks were performed on the data set
 6.Build predictive models to predict the final grade 
 
 7.Conclusion and recommendations to improve a student's grade
+
+
+R code is provided
